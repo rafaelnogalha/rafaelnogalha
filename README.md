@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafael Henrique Nogalha de Lima</h1>
 <h3 align="center">A student from University of Brasília</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelnogalha&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelnogalha" /> </p>
-
 
 - 🔭 I’m currently working on **Comfort-Hub**
 
