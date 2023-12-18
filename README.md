@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rafael Henrique Nogalha de Lima</h1>
-<h3 align="center">A student from University of Brasília</h3>
+<h3 align="center">A computer scientist from University of Brasília</h3>
 
 
-- 🔭 I’m currently working on **Comfort-Hub**
+- 🔭 I’m currently working on **Comfort-Hub** and **Banco do Brasil**
 
 - 🌱 I’m currently learning **NodeJs, ReactJs and Rust**
 
